@@ -1,0 +1,15 @@
+C:\pratikler\oparatorler\bin\Debug\net6.0\oparatorler.exe
+C:\pratikler\oparatorler\bin\Debug\net6.0\oparatorler.deps.json
+C:\pratikler\oparatorler\bin\Debug\net6.0\oparatorler.runtimeconfig.json
+C:\pratikler\oparatorler\bin\Debug\net6.0\oparatorler.dll
+C:\pratikler\oparatorler\bin\Debug\net6.0\oparatorler.pdb
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.csproj.AssemblyReference.cache
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.AssemblyInfoInputs.cache
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.AssemblyInfo.cs
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.csproj.CoreCompileInputs.cache
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.dll
+C:\pratikler\oparatorler\obj\Debug\net6.0\refint\oparatorler.dll
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.pdb
+C:\pratikler\oparatorler\obj\Debug\net6.0\oparatorler.genruntimeconfig.cache
+C:\pratikler\oparatorler\obj\Debug\net6.0\ref\oparatorler.dll
